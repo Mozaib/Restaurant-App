@@ -1,0 +1,15 @@
+{
+  "name": "restaurant-app",
+  "version": "1.0.0",
+  "description": "restaurant app with a menu ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mohammed Zaib",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.25.1",
+    "webpack-cli": "^3.1.2"
+  }
+}
